@@ -1,0 +1,15 @@
+# Ortak Python ve IDE dosyaları
+__pycache__/
+*.py[cod]
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+.eggs/
+*.log
+*.sqlite3
+.DS_Store
+.env
+Chatbot/.env
+**/.env
